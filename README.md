@@ -24,8 +24,6 @@
 
 <a href='https://www.codewars.com/users/DinGis9' target='_blank'>CodeWars</a>
 
-<br><br><br><br><br><br>
-
 ***
 
 <h3 align="left">Languages and Tools:</h3>
