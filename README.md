@@ -23,7 +23,7 @@
 ***
 
 <a href='https://www.codewars.com/users/DinGis9' target='_blank'>CodeWars</a>
-
+<a href='https://codepen.io/oleg777gorbachov' target='_blank'>CodePen</a>
 ***
 
 <h3 align="left">Languages and Tools:</h3>
