@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleg777gorbachov&label=Profile%20views&color=0e75b6&style=flat" alt="oleg777gorbachov" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, TS**
+- 👀 I’m interested in React, Redux, Next
 
 - 📫 How to reach me <a href='https://t.me/DinGis9' target="_blank" >**Telegram**</a>
 
