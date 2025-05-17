@@ -5,8 +5,6 @@
 
 - 👀 I’m interested in React, Redux, Next
 
-- 📫 How to reach me <a href='https://t.me/DinGis9' target="_blank" >**Telegram**</a>
-
 ***
 
 <h3 align="left">Connect with me:</h3>
